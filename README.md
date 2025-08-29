@@ -44,7 +44,7 @@ If resulting state is Medium → +5.
 
 If resulting state is High → -10.
 
-Optionally add a small penalty for switching (e.g., −1) if you want to discourage frequent flips.
+Adding a small penalty for switching (e.g., −1) if you want to discourage frequent flips.
 (Immediate reward = reward of next state ± action cost.)
 
 ### Graphical Representation
